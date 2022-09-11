@@ -4,6 +4,9 @@ Aplicativo com Biblia de Estudos Ave Maria e Audio
 ### Implementation
 
 ### Requirements
+[React Navigation](https://reactnavigation.org/)
+[Firebase](https://firebase.google.com/)
+[http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 ### Other Contributors
 
